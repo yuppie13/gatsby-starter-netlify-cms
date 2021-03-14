@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Investing in Stocks and Shares of Hydrogen
-image: /img/home-jumbotron.jpg
+image: /img/hydrogen-molecule-web.webp
 heading: Hydrogen Stocks Shares Investing
 subheading: Information about sustainable investments in the hydrogen economy
 mainpitch:
