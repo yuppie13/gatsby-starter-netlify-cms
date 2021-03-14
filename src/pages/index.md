@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Investing in Stocks and Shares of Hydrogen
 image: /img/home-jumbotron.jpg
 heading: Hydrogen Stocks Shares Investing
 subheading: Information about sustainable investments in the hydrogen economy
